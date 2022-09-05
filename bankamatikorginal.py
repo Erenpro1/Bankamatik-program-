@@ -10,8 +10,8 @@ class musteri():
 
 
 
-eren = musteri("Eren","Alkış","44Eren44","12345678",2000)
-yağmur = musteri("Yağmur","Alkış","44Yağmur44","2123456",2000)
+eren = musteri("Eren","Alkış","31Admin31","12345678",2000)
+yağmur = musteri("Yağmur","Alkış","31Admin31","2123456",2000)
 musteri_list = [eren,yağmur]
 
 
